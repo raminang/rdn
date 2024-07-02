@@ -5,7 +5,6 @@ lerna-debug.log*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
-
 # Runtime 
 data
 ]*.pid.lock
@@ -81,8 +80,6 @@ dist
 
 # Serverless directories
 .serverless/
-
-# FuseBox cache
 .fusebox/
 
 # DynamoDB Local files
