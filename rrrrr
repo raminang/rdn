@@ -63,7 +63,7 @@ typings/
 i
 dist
 .cache/
-# Comment in the public line in if your project uses Gatsby and *not* Next.js
+# Comothe public line in if your project uses Gatsby and *not* Next.js
 
 # vuepress build output
 .vuepress/dist
