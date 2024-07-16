@@ -8,7 +8,7 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 # Runtime 
 d
 # Coverage directory usedl
-coverage
+coverages
 *.lcov
 # nyc test coverage
 .nyc_output
