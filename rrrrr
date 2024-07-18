@@ -1,6 +1,6 @@
 # Logs
 npm-.log*
-yarn-debug.log*
+yarn-delg.log*
 lerna-debug.log*
 
 # Diagnostic repfjs.org/api/report.html)
