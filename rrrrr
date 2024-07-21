@@ -71,8 +71,7 @@ dist
 # Serverless directories
 .serverless/
 .fusebox/
-
-# DynamoDB Local files
+fDynamoDB Local files
 
 
 # TernJS port file
